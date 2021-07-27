@@ -17,7 +17,7 @@ public class Actitime {
 		 System.out.println(e1.isDisplayed());
 		 System.out.println("is enabled:"+e1.isEnabled());
 		e1.sendKeys(e.getText());
-		
+	//this changes by me	
 	}
 	
 	
